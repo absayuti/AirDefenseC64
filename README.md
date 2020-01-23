@@ -1,4 +1,4 @@
-# AirDefenseC64
+# AirDefenseC64 (UNFINISHED)
 A silly game about shooting down bombs dropped from the sky. Based on a type-in program published in COMPUTE! magazine (Month/Year, issue ????) for various 8-bit home computers. This version was sort of ported from the VIC-20 version but things changed a lt during the programming/porting.
 
 Written in BASIC and 6502 Assembly (or ML or machine language) using a fantastic development tool called CBM Program Studio IDE (link, author ???). The IDE has almost everything: editor, renumbering, multiple files, sprite editor, assembler, online reference etc.
